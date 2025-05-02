@@ -13,6 +13,6 @@
 
 ### Github Stats and Activity
 ```
-<img src="https://github-readme-stats.vercel.app/api?username=Obaid03&show_icons=true&theme=highcontrast
+<img src="https://github-readme-stats.vercel.app/api?username=Obaid03&show_icons=true&theme=highcontrast"/>
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=Obaid03&show_icons=true&theme=highcontrast" />
