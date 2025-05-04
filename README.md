@@ -2,7 +2,7 @@
 ```
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,vscode" />
 ```
-<!--<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" height="50">-->
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python"
 
 ### Featured Projects
 ```
